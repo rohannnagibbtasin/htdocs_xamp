@@ -1,0 +1,25 @@
+.tasin{
+    background-color: #42cc8c;
+    border: 1px solid rgba(0, 0, 0, 0.637);
+    padding: 0.7rem 2rem;
+    margin: 0.5rem 0.5rem;
+}
+.tasin:hover{
+    border: 1px solid #fff;
+    background-color: #42cc8cda;
+    color: #fff;
+}
+.edit{
+    background-color: #ffc107;
+    border: 1px solid rgba(0, 0, 0, 0.637);
+    margin-right: 5px;
+}
+.edit:hover{
+    background-color: #ebbc30cb;
+    border: 1px solid rgba(0, 0, 0, 0.637);
+    margin-right: 5px;
+}
+.delete{
+    background-color: #dc3545;
+    border: 1px solid rgba(0, 0, 0, 0.637);
+}
